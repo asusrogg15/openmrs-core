@@ -14,26 +14,29 @@ The mission of OpenMRS is to improve health care delivery in resource-constraine
 
 #### Table of Contents
 
-1. [Build](#build)
-   1. [Prerequisites](#prerequisites)
-   2. [Build Command](#build-command)
-   3. [Deploy](#deploy)
-2. [Docker build](#docker-build)
-3. [Navigating the repository](#navigating-the-repository)
-4. [Software Development Kit](#software-development-kit)
-5. [Extending OpenMRS with Modules](#extending-openmrs-with-modules)
-6. [Documentation](#documentation)
-   1. [Developer guides](#developer-guides)
-   2. [Wiki](#wiki)
-   3. [Website](#website)
-7. [Contributing](#contributing)
-   1. [Code](#code)
-   2. [Code Reviews](#code-reviews)
-   3. [Translation](#translation)
-8. [Issues](#issues)
-9. [Community](#community)
-10. [Support](#support)
-11. [License](#license)
+- [Build](#build)
+  - [Prerequisites](#prerequisites)
+    - [Java](#java)
+    - [Maven](#maven)
+    - [Git](#git)
+  - [Build Command](#build-command)
+  - [Deploy](#deploy)
+- [Docker build](#docker-build)
+- [Navigating the repository](#navigating-the-repository)
+- [Software Development Kit](#software-development-kit)
+- [Extending OpenMRS with Modules](#extending-openmrs-with-modules)
+- [Documentation](#documentation)
+  - [Developer guides](#developer-guides)
+  - [Wiki](#wiki)
+  - [Website](#website)
+- [Contributing](#contributing)
+  - [Code](#code)
+  - [Code Reviews](#code-reviews)
+  - [Translation](#translation)
+- [Issues](#issues)
+- [Community](#community)
+- [Support](#support)
+- [License](#license)
 
 ## Build
 
@@ -259,4 +262,5 @@ Talk to us on [OpenMRS Talk](https://talk.openmrs.org/)
 ## License
 
 [MPL 2.0 w/ HD](http://openmrs.org/license/) © [OpenMRS Inc.](http://www.openmrs.org/)
+hi
 
